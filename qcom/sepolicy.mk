@@ -4,8 +4,8 @@
 #
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
-    device/beast/sepolicy/qcom/private
+    device/komodo/sepolicy/qcom/private
 
 BOARD_SEPOLICY_DIRS += \
-    device/beast/sepolicy/qcom/common \
-    device/beast/sepolicy/qcom/$(TARGET_BOARD_PLATFORM)
+    device/komodo/sepolicy/qcom/common \
+    device/komodo/sepolicy/qcom/$(TARGET_BOARD_PLATFORM)
