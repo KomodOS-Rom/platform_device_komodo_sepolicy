@@ -1,6 +1,6 @@
 #
 # This policy configuration will be used by all qcom products
-# that inherit from Beast
+# that inherit from Komodo
 #
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
